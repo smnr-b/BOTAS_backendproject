@@ -1,0 +1,2531 @@
+[
+    {
+      "pingID": 12,
+      "cihazAdi": "iariamba Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.63",
+      "enlem": "41,175319598272601",
+      "boylam": "36,730341480966800",
+      "rootID": 0
+    },
+    {
+      "pingID": 20,
+      "cihazAdi": "Ceyhan- fiber hat",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.53",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 28,
+      "cihazAdi": "bakim onarim",
+      "cihazTuru": "nexus",
+      "ip": "12.122.162.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 29,
+      "cihazAdi": "Sungurlu router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.115",
+      "enlem": "40,185182000000000",
+      "boylam": "34,455272000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 30,
+      "cihazAdi": "Hanak Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.131",
+      "enlem": "41,236529000000000",
+      "boylam": "42,858594000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 31,
+      "cihazAdi": "Tirkizi",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.153",
+      "enlem": "41,583710000000000",
+      "boylam": "42,818996000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 32,
+      "cihazAdi": "Doiubeyazit Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.99",
+      "enlem": "39,556948000000000",
+      "boylam": "44,085878000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 33,
+      "cihazAdi": "Erzurum Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.91",
+      "enlem": "39,958462270000000",
+      "boylam": "41,304716350000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 34,
+      "cihazAdi": "Erzincan Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.113",
+      "enlem": "39,836505000000000",
+      "boylam": "40,080567000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 35,
+      "cihazAdi": "Sivas Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.123",
+      "enlem": "39,585459000000000",
+      "boylam": "37,080975000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 36,
+      "cihazAdi": "Kayseri Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.59",
+      "enlem": "38,770371830999998",
+      "boylam": "35,362862839999998",
+      "rootID": 0
+    },
+    {
+      "pingID": 37,
+      "cihazAdi": "Kahramanmarai Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.63",
+      "enlem": "37,527970000000000",
+      "boylam": "36,989705000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 38,
+      "cihazAdi": "Gaz KOntrol",
+      "cihazTuru": "Sw",
+      "ip": "12.122.165.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 39,
+      "cihazAdi": "Gaz kontrol",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 29
+    },
+    {
+      "pingID": 40,
+      "cihazAdi": "kontrol binasi",
+      "cihazTuru": "sw1",
+      "ip": "12.122.192.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 30
+    },
+    {
+      "pingID": 41,
+      "cihazAdi": "Gaz Kontrol",
+      "cihazTuru": "sw",
+      "ip": "12.122.195.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 31
+    },
+    {
+      "pingID": 42,
+      "cihazAdi": "Kontrol binasi",
+      "cihazTuru": "sw",
+      "ip": "12.122.162.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 32
+    },
+    {
+      "pingID": 43,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 44,
+      "cihazAdi": "Kontrol Binasi",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 34
+    },
+    {
+      "pingID": 45,
+      "cihazAdi": "iiletme binasi",
+      "cihazTuru": "sw",
+      "ip": "12.122.161.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 35
+    },
+    {
+      "pingID": 46,
+      "cihazAdi": "idari bina",
+      "cihazTuru": "sw",
+      "ip": "12.122.131.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 37
+    },
+    {
+      "pingID": 48,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 29
+    },
+    {
+      "pingID": 49,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw",
+      "ip": "12.122.165.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 50,
+      "cihazAdi": "idari Bina 2",
+      "cihazTuru": "sw",
+      "ip": "12.122.165.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 51,
+      "cihazAdi": "Misafirhane",
+      "cihazTuru": "sw",
+      "ip": "12.122.165.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 52,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "sw",
+      "ip": "12.122.165.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 53,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "sw",
+      "ip": "12.122.165.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 12
+    },
+    {
+      "pingID": 54,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 29
+    },
+    {
+      "pingID": 55,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw",
+      "ip": "12.122.192.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 30
+    },
+    {
+      "pingID": 56,
+      "cihazAdi": "idari",
+      "cihazTuru": "sw",
+      "ip": "12.122.192.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 30
+    },
+    {
+      "pingID": 57,
+      "cihazAdi": "misafirhane",
+      "cihazTuru": "sw",
+      "ip": "12.122.192.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 30
+    },
+    {
+      "pingID": 58,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "sw",
+      "ip": "12.122.195.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 31
+    },
+    {
+      "pingID": 59,
+      "cihazAdi": "misafirhane",
+      "cihazTuru": "sw",
+      "ip": "12.122.195.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 31
+    },
+    {
+      "pingID": 60,
+      "cihazAdi": "idari",
+      "cihazTuru": "sw",
+      "ip": "12.122.162.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 32
+    },
+    {
+      "pingID": 63,
+      "cihazAdi": "idari bina",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 64,
+      "cihazAdi": "Depo Ambar",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 65,
+      "cihazAdi": "idari ve Sosy. iil.",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 66,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 67,
+      "cihazAdi": "Yemekhane",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 34
+    },
+    {
+      "pingID": 68,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw",
+      "ip": "12.122.161.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 35
+    },
+    {
+      "pingID": 69,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw1",
+      "ip": "12.122.162.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 70,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "sw2",
+      "ip": "12.122.162.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 71,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "sw1",
+      "ip": "12.122.162.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 72,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "sw2",
+      "ip": "12.122.162.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 73,
+      "cihazAdi": "Yemekhane",
+      "cihazTuru": "sw1",
+      "ip": "12.122.162.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 74,
+      "cihazAdi": "Ambar",
+      "cihazTuru": "sw",
+      "ip": "12.122.162.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 75,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "sw2",
+      "ip": "12.122.131.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 37
+    },
+    {
+      "pingID": 76,
+      "cihazAdi": "Mucur",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.139",
+      "enlem": "39,150239000000000",
+      "boylam": "34,394213000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 77,
+      "cihazAdi": "Eskiiehir Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.53",
+      "enlem": "39,831830000000000",
+      "boylam": "30,621261000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 78,
+      "cihazAdi": "izmir Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.35",
+      "enlem": "38,452957000000000",
+      "boylam": "27,460675000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 79,
+      "cihazAdi": "Kirklareli Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.13",
+      "enlem": "41,777060000000000",
+      "boylam": "27,193479000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 80,
+      "cihazAdi": "Bilge Midirliii Router",
+      "cihazTuru": "Router",
+      "ip": "12.122.62.1",
+      "enlem": "39,855180000000000",
+      "boylam": "32,591255000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 81,
+      "cihazAdi": "Data Center Nexus 1 (BBSW01)",
+      "cihazTuru": "Switch",
+      "ip": "12.122.62.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 82,
+      "cihazAdi": "Data Center Nexus 2 (BBSW02)",
+      "cihazTuru": "Switch",
+      "ip": "12.122.62.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 83,
+      "cihazAdi": "Bilge Md. Nexus 1 (BBSW03)",
+      "cihazTuru": "Switch",
+      "ip": "12.122.62.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 84,
+      "cihazAdi": "Bilge Md Nexus 2 (BBSW04)",
+      "cihazTuru": "Switch",
+      "ip": "12.122.62.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 85,
+      "cihazAdi": "Ank. ib. Sw1 (AS-SW01)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.161",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 86,
+      "cihazAdi": "Ank. ib. Sw2 (AS-SW02)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.161",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 87,
+      "cihazAdi": "Bilge Midirliii SW1 (BM-SW01)-yazicilar",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.163",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 88,
+      "cihazAdi": "Bilge Midirliii SW2 (BM-SW02)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.165",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 89,
+      "cihazAdi": "Bilge Midirliii SW3 (BM-SW03)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.165",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 90,
+      "cihazAdi": "Bilge Midirliii SW4 (BM-SW04)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.166",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 91,
+      "cihazAdi": "Bilge Midirliii SW5 (BM-SW05)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.163",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 92,
+      "cihazAdi": "Bilge Midirliii SW6 (BM-SW06)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.166",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 93,
+      "cihazAdi": "Bilge Midirliii SW7 (BM-SW07)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.169",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 94,
+      "cihazAdi": "Bilge Midirliii SW8 (BM-SW08)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.192",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 95,
+      "cihazAdi": "Bilge Midirliii SW9 (BM-SW09)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.191",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 96,
+      "cihazAdi": "Bakim Onarim (BKMONRM-SW01)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.193",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 97,
+      "cihazAdi": "Eiitim SW01 ( EGTMB-SW01 )",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.193",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 98,
+      "cihazAdi": "Eiitim SW02 ( EGTMB-SW02)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.195",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 99,
+      "cihazAdi": "Eski Bilge SW1 ( ESKBOLGE-SW1 )",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.195",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 101,
+      "cihazAdi": "ikmal SW1 (IKMAL-SW01)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.196",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 102,
+      "cihazAdi": "Konteyner SW1 (KNTYR-SW01)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.122",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 103,
+      "cihazAdi": "Lokal SW1 (LOKAL-SW01)",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.121",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 105,
+      "cihazAdi": "Kat4-Makam-ToplantiOdasi-SW",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.196",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 107,
+      "cihazAdi": "Kontrol binasi",
+      "cihazTuru": "switch",
+      "ip": "12.122.191.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 76
+    },
+    {
+      "pingID": 108,
+      "cihazAdi": "Misafirhane",
+      "cihazTuru": "switch",
+      "ip": "12.122.191.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 76
+    },
+    {
+      "pingID": 109,
+      "cihazAdi": "Lokal",
+      "cihazTuru": "switch",
+      "ip": "12.122.191.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 76
+    },
+    {
+      "pingID": 111,
+      "cihazAdi": "Konya Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.35",
+      "enlem": "37,855351000000000",
+      "boylam": "32,637665000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 112,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 113,
+      "cihazAdi": "ikmal",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 114,
+      "cihazAdi": "Yemekhane",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 115,
+      "cihazAdi": "Givenlik",
+      "cihazTuru": "sw",
+      "ip": "12.122.166.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 116,
+      "cihazAdi": "idari Bina SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 117,
+      "cihazAdi": "idari Bina SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 118,
+      "cihazAdi": "idari Bina SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 119,
+      "cihazAdi": "Kontrol Binasi",
+      "cihazTuru": "switch",
+      "ip": "12.122.165.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 77
+    },
+    {
+      "pingID": 120,
+      "cihazAdi": "Misafirhane",
+      "cihazTuru": "switch",
+      "ip": "12.122.165.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 77
+    },
+    {
+      "pingID": 121,
+      "cihazAdi": "Lokal",
+      "cihazTuru": "switch",
+      "ip": "12.122.165.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 77
+    },
+    {
+      "pingID": 122,
+      "cihazAdi": "Givenlik",
+      "cihazTuru": "switch",
+      "ip": "12.122.165.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 77
+    },
+    {
+      "pingID": 124,
+      "cihazAdi": "Bakim Onarmi",
+      "cihazTuru": "switch",
+      "ip": "12.122.122.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 78
+    },
+    {
+      "pingID": 125,
+      "cihazAdi": "idari bina",
+      "cihazTuru": "switch",
+      "ip": "12.122.122.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 78
+    },
+    {
+      "pingID": 127,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "switch",
+      "ip": "12.122.122.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 78
+    },
+    {
+      "pingID": 129,
+      "cihazAdi": "Kontrol Binasi",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 79
+    },
+    {
+      "pingID": 131,
+      "cihazAdi": "Midirlik SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 79
+    },
+    {
+      "pingID": 132,
+      "cihazAdi": "Bakim Onarim",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 79
+    },
+    {
+      "pingID": 133,
+      "cihazAdi": "Yemekhane",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 79
+    },
+    {
+      "pingID": 134,
+      "cihazAdi": "Malkoilar Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.51",
+      "enlem": "42,051183000000000",
+      "boylam": "27,040127000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 135,
+      "cihazAdi": "Kontrol Binasi",
+      "cihazTuru": "switch",
+      "ip": "12.122.196.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 134
+    },
+    {
+      "pingID": 136,
+      "cihazAdi": "Ambarli Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.11",
+      "enlem": "40,972485000000000",
+      "boylam": "28,686449000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 137,
+      "cihazAdi": "Kontrol Binasi",
+      "cihazTuru": "switch",
+      "ip": "12.122.196.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 136
+    },
+    {
+      "pingID": 138,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "switch",
+      "ip": "12.122.196.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 136
+    },
+    {
+      "pingID": 139,
+      "cihazAdi": "istanbul Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.3",
+      "enlem": "40,892317000000000",
+      "boylam": "29,285150000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 140,
+      "cihazAdi": "istanbul Nexus",
+      "cihazTuru": "Nexus",
+      "ip": "12.122.156.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 141,
+      "cihazAdi": "Eski idari bina SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 142,
+      "cihazAdi": "Eski idari Bina SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 143,
+      "cihazAdi": "Yemekhane",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 144,
+      "cihazAdi": "Yeni idari Bina SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 145,
+      "cihazAdi": "Yeni idari Bina SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 146,
+      "cihazAdi": "Yeni idari Bina SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 147,
+      "cihazAdi": "Yeni idari Bina SW04",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.9",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 148,
+      "cihazAdi": "Yeni idari Bina SW05",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.12",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 149,
+      "cihazAdi": "Yeni idari Bina SW06",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.11",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 150,
+      "cihazAdi": "Yeni idari Bina SW07",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.11",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 151,
+      "cihazAdi": "Yeni idari Bina SW08",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.13",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 152,
+      "cihazAdi": "Garaj",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.15",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 153,
+      "cihazAdi": "Eski idari Bina SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.15",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 154,
+      "cihazAdi": "Nizamiye",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.16",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 155,
+      "cihazAdi": "Ambar",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.13",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 156,
+      "cihazAdi": "Bakim Onarim SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.16",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 157,
+      "cihazAdi": "Bakim Onarim SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.156.19",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 139
+    },
+    {
+      "pingID": 158,
+      "cihazAdi": "Lokal",
+      "cihazTuru": "switch",
+      "ip": "12.122.166.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 29
+    },
+    {
+      "pingID": 159,
+      "cihazAdi": "Bursa Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.19",
+      "enlem": "40,239511000000000",
+      "boylam": "28,975014000000000",
+      "rootID": 0
+    },
+    {
+      "pingID": 160,
+      "cihazAdi": "Sistem Odasi giris Kat SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.151.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 161,
+      "cihazAdi": "Gaz iletim SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.123",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 163,
+      "cihazAdi": "Gaz iletim SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.121",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 164,
+      "cihazAdi": "LNG Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.66",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 165,
+      "cihazAdi": "Silivri Depolama",
+      "cihazTuru": "BB Switch",
+      "ip": "12.126.62.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 166,
+      "cihazAdi": "Gaz iletim SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.125",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 168,
+      "cihazAdi": "itfaiye",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.125",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 169,
+      "cihazAdi": "Santral Sw",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.126",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 170,
+      "cihazAdi": "Konteyner",
+      "cihazTuru": "Sw1",
+      "ip": "12.122.162.9",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 36
+    },
+    {
+      "pingID": 184,
+      "cihazAdi": "Erzurum Santral",
+      "cihazTuru": "Santral",
+      "ip": "12.122.136.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 185,
+      "cihazAdi": "Garaj ( yeni Bina ) SW",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.123",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 187,
+      "cihazAdi": "Silivri -Yapracik Botai Hat",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.61",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 188,
+      "cihazAdi": "Yapracik - GM Botai Hat",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.9",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 189,
+      "cihazAdi": "BBRTR-1",
+      "cihazTuru": "Ana Router",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 190,
+      "cihazAdi": "BBRTR-2",
+      "cihazTuru": "Ana Router",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 191,
+      "cihazAdi": "DC SW 01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.126",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 192,
+      "cihazAdi": "DC SW 02",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.129",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 193,
+      "cihazAdi": "Givenlik SW01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.112",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 194,
+      "cihazAdi": "Sistem odasi giris kat sw02",
+      "cihazTuru": "",
+      "ip": "12.122.151.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 195,
+      "cihazAdi": "Bakim Onarim SW01",
+      "cihazTuru": "",
+      "ip": "12.122.151.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 196,
+      "cihazAdi": "1. Kat SW01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.151.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 197,
+      "cihazAdi": "1. Kat SW02",
+      "cihazTuru": "Switch",
+      "ip": "12.122.151.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 198,
+      "cihazAdi": "2. Kat SW01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.151.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 199,
+      "cihazAdi": "2. Kat SW02",
+      "cihazTuru": "Switch",
+      "ip": "12.122.151.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 159
+    },
+    {
+      "pingID": 1200,
+      "cihazAdi": "idari Bina",
+      "cihazTuru": "sw 3",
+      "ip": "12.122.131.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 37
+    },
+    {
+      "pingID": 1201,
+      "cihazAdi": "DGI-YB-KAT2-SOL-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.132",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1202,
+      "cihazAdi": "DGI-YB-KAT2-SOL-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1203,
+      "cihazAdi": "DGI-YB-KAT2-SOL-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1204,
+      "cihazAdi": "DGI-YB-KAT2-SOL-SW04",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1205,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1206,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1207,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1208,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW04",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1209,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW05",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1210,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW06",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.139",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1211,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW07",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.152",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1212,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW08",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1213,
+      "cihazAdi": "DGI-YB-KAT2-SAG-SW09",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1214,
+      "cihazAdi": "DGI-YB-KAT3-SOL-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1215,
+      "cihazAdi": "DGI-YB-KAT3-SOL-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1216,
+      "cihazAdi": "DGI-YB-KAT3-SOL-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1217,
+      "cihazAdi": "DGI-YB-KAT4-SOL-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.156",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1218,
+      "cihazAdi": "DGI-YB-KAT4-SOL-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1219,
+      "cihazAdi": "DGI-YB-KAT4-SOL-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.156",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1220,
+      "cihazAdi": "DGI-YB-KAT1-SOL-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.159",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1221,
+      "cihazAdi": "DGI-YB-KAT1-SOL-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.152",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1222,
+      "cihazAdi": "DGI-YB-KAT1-SOL-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1223,
+      "cihazAdi": "DGI-YB-ZEMIN-SOL-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1224,
+      "cihazAdi": "DGI-YB-ZEMIN-SOL-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1225,
+      "cihazAdi": "DGI-YB-ZEMIN-SOL-SWCAM1",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1226,
+      "cihazAdi": "DGI-YB-ZEMIN-SAG-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1227,
+      "cihazAdi": "DGI-YB-ZEMIN-SAG-SW02",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.156",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1228,
+      "cihazAdi": "DGI-YB-ZEMIN-SAG-SW03",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1229,
+      "cihazAdi": "DGI-YB-ZEMIN-SAG-SWCAM1",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.156",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1230,
+      "cihazAdi": "DGI-YB-SAGLIK-SWCAM1",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.159",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1231,
+      "cihazAdi": "DGI-YB-SAGLIK-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.162",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 1232,
+      "cihazAdi": "DGI-SPOR-SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.161",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 83
+    },
+    {
+      "pingID": 2201,
+      "cihazAdi": "Bakim Onarim2",
+      "cihazTuru": "Switch",
+      "ip": "12.122.166.9",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 111
+    },
+    {
+      "pingID": 2202,
+      "cihazAdi": "Diyarbakir Router",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.121",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 2203,
+      "cihazAdi": "Diyarbakir Router Yedek ",
+      "cihazTuru": "Router",
+      "ip": "191.166.122.121",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2202
+    },
+    {
+      "pingID": 2204,
+      "cihazAdi": "DIYARBAKIR-L3SW Router Bacaii",
+      "cihazTuru": "L3 Switch",
+      "ip": "191.166.122.123",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2202
+    },
+    {
+      "pingID": 2205,
+      "cihazAdi": "DIYARBAKIR_L3SW",
+      "cihazTuru": "L3 Switch",
+      "ip": "12.122.125.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2202
+    },
+    {
+      "pingID": 2206,
+      "cihazAdi": "DIYARBAKIR_YB_SW01",
+      "cihazTuru": "L2 Switch",
+      "ip": "12.122.125.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2202
+    },
+    {
+      "pingID": 2208,
+      "cihazAdi": "DGI-YB-ZEMIN-SAG-IC-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.165",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2209,
+      "cihazAdi": "DGI-YB-ZEMIN-ARKA-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.165",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2210,
+      "cihazAdi": "DGI-YB-ZEMIN-ARKA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2211,
+      "cihazAdi": "DGI-YB-ZEMIN-SOL-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.159",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2212,
+      "cihazAdi": "DGI-YB-ZEMIN-SOL-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.162",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2213,
+      "cihazAdi": "DGI-YB-KAT1-SAG-MAKAM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.39",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2214,
+      "cihazAdi": "DGI-YB-KAT1-SAG-IC-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.12",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2215,
+      "cihazAdi": "DGI-YB-KAT1-SOL-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.113",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2216,
+      "cihazAdi": "DGI-YB-KAT1-ON-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2217,
+      "cihazAdi": "DGI-YB-KAT1-ARKA-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.126",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2218,
+      "cihazAdi": "DGI-YB-KAT1-ARKA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.163",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2219,
+      "cihazAdi": "DGI-YB-KAT2-ARKA-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2220,
+      "cihazAdi": "DGI-YB-KAT2-ARKA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.166",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2221,
+      "cihazAdi": "DGI-YB-KAT2-SAG-MAKAM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.162",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2222,
+      "cihazAdi": "DGI-YB-KAT2-SAG-IC-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.159",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2223,
+      "cihazAdi": "DGI-YB-KAT2-SOL-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.192",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2224,
+      "cihazAdi": "DGI-YB-KAT2-ON-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2225,
+      "cihazAdi": "DGI-YB-KAT3-SAG-MAKAM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.153",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2226,
+      "cihazAdi": "DGI-YB-KAT3-SAG-IC-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.165",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2227,
+      "cihazAdi": "DGI-YB-KAT3-SOL-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.129",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2228,
+      "cihazAdi": "DGI-YB-KAT3-ON-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.121",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2229,
+      "cihazAdi": "DGI-YB-KAT3-ON-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.125",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2230,
+      "cihazAdi": "DGI-YB-KAT3-ARKA-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.111",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2231,
+      "cihazAdi": "DGI-YB-KAT3-ARKA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.116",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2232,
+      "cihazAdi": "DGI-YB-KAT4-SAG-MAKAM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2233,
+      "cihazAdi": "DGI-YB-KAT4-SAG-IC-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.191",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2234,
+      "cihazAdi": "DGI-YB-KAT4-SOL-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2235,
+      "cihazAdi": "DGI-YB-KAT4-ON-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2236,
+      "cihazAdi": "DGI-YB-KAT4-ARKA-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.19",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2237,
+      "cihazAdi": "DGI-YB-KAT4-ARKA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.91",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2238,
+      "cihazAdi": "DGI-YB-ZEMIN-MESCIT-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2239,
+      "cihazAdi": "DGI-YB-ZEMIN-KONFERANS-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.69",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2240,
+      "cihazAdi": "DGI-LOKAL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.35",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2241,
+      "cihazAdi": "DGI-LOKAL-MAVi-AKIM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.33",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2242,
+      "cihazAdi": "DGI-GAZILETIM-ALT-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.129",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2243,
+      "cihazAdi": "DGI-GAZILETIM-UST-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.126",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2244,
+      "cihazAdi": "DGI-IKMAL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.123",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2245,
+      "cihazAdi": "DGI-SAGLIK-ZEMIN-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.93",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2246,
+      "cihazAdi": "DGI-SAGLIK-KAT1-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.63.92",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2247,
+      "cihazAdi": "DGI-SAGLIK-KAT2-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2248,
+      "cihazAdi": "DGI-SAGLIK-KAT2-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.163",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2249,
+      "cihazAdi": "DGI-SAGLIK-KAT3-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2250,
+      "cihazAdi": "DGI-SAGLIK-KAT3-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.139",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2251,
+      "cihazAdi": "DGI-YEDEK",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.111",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2252,
+      "cihazAdi": "DGI-ITFAIYE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.61.11",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2253,
+      "cihazAdi": "PEN-YENI-IDARIBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.152.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2254,
+      "cihazAdi": "PEN-YEMEKHANE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.152.155",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2255,
+      "cihazAdi": "KIR-KONTROLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.156.119",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2256,
+      "cihazAdi": "KAY-IDARIBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.152",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2257,
+      "cihazAdi": "KAY-BKMONRM-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.151",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2258,
+      "cihazAdi": "KAY-BKMONRM-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.35",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2259,
+      "cihazAdi": "KAY-YEMEKHANE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.53",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2260,
+      "cihazAdi": "KAY-IDARIBINA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2261,
+      "cihazAdi": "KAY-AMBAR-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.53",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2262,
+      "cihazAdi": "CAR-GZKNTRL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.165.12",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2263,
+      "cihazAdi": "CAR-MISAFIRHANE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.166.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2264,
+      "cihazAdi": "KON-IDARIBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.132.152",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2265,
+      "cihazAdi": "MAR-IDARI-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.133.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2266,
+      "cihazAdi": "MAR-IDARI-AP3",
+      "cihazTuru": "AP",
+      "ip": "12.122.133.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2267,
+      "cihazAdi": "ERZ-IDARI-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.133.16",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2268,
+      "cihazAdi": "ERZ-IDARI-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.133.12",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2269,
+      "cihazAdi": "ERZ-IDARI-AP3",
+      "cihazTuru": "AP",
+      "ip": "12.122.133.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2270,
+      "cihazAdi": "ERZ-AMBAR-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.136.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2271,
+      "cihazAdi": "ERZ-BKMONRM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.136.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2272,
+      "cihazAdi": "DBYZT-TLKODASI-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2273,
+      "cihazAdi": "DBYZT-Misafirhane-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.161.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2274,
+      "cihazAdi": "SVS-ISLETMEBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.163.1",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2275,
+      "cihazAdi": "ESK-KNTRLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.165.11",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2276,
+      "cihazAdi": "ESK-MISAFIRHANE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.165.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2277,
+      "cihazAdi": "CS13-BKM-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.163.16",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2278,
+      "cihazAdi": "CS13-KNTRL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.163.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2279,
+      "cihazAdi": "ERC-KNTRLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.169.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2280,
+      "cihazAdi": "HAN-KNTRL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.191.5",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2281,
+      "cihazAdi": "HAN-MISAFIRHANE-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.191.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2283,
+      "cihazAdi": "MUC-KNTRLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.131",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2284,
+      "cihazAdi": "MUC-LOKAL-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.135",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2285,
+      "cihazAdi": "MUC-KNTRLBINA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2286,
+      "cihazAdi": "MUC-MISAFIRHANE-AP1",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2287,
+      "cihazAdi": "MUC-MISAFIRHANE-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2288,
+      "cihazAdi": "MUC-MISAFIRHANE-AP3",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2289,
+      "cihazAdi": "AMB-KNTRLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.193.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2290,
+      "cihazAdi": "MALK-KNTRLBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.199.116",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2291,
+      "cihazAdi": "IZM-IDARIBINA-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.121.19",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2292,
+      "cihazAdi": "DIYARBAKIR-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.125.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2293,
+      "cihazAdi": "PEN-YENI-IDARIBINA-AP2",
+      "cihazTuru": "AP",
+      "ip": "12.122.159.13",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 2294,
+      "cihazAdi": "CAR-IDARI-AP",
+      "cihazTuru": "AP",
+      "ip": "12.122.165.13",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 2207
+    },
+    {
+      "pingID": 3294,
+      "cihazAdi": "VYS-Sungurlu",
+      "cihazTuru": "AP",
+      "ip": "12.122.166.31",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 0
+    },
+    {
+      "pingID": 3295,
+      "cihazAdi": "ikmal SW2",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.199",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3296,
+      "cihazAdi": "Bilge Midirliii Makam SW01",
+      "cihazTuru": "switch",
+      "ip": "12.122.61.162",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3297,
+      "cihazAdi": "Bilge Midirliii Ek SW01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.139",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3298,
+      "cihazAdi": "Bilge Midirliii Ek SW02",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.136",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3299,
+      "cihazAdi": "Lokal Sahdeniz ToplantiOdasi SW",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.133",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3300,
+      "cihazAdi": "Ginei Enerji Sistemi SW01",
+      "cihazTuru": "Switch",
+      "ip": "12.122.61.111",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 80
+    },
+    {
+      "pingID": 3301,
+      "cihazAdi": "idari bina 2",
+      "cihazTuru": "sw",
+      "ip": "12.122.136.3",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 33
+    },
+    {
+      "pingID": 3302,
+      "cihazAdi": "kontrol binasi 2",
+      "cihazTuru": "sw2",
+      "ip": "12.122.192.6",
+      "enlem": "",
+      "boylam": "",
+      "rootID": 30
+    }
+  ]
